@@ -1,2 +1,2 @@
 # Verifier
-Demo project for students with hearing impairments
+Demo project for WhatsApp chatbot verification
